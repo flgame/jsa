@@ -14,11 +14,26 @@
         }
         return data.texture;
     };
+    JSA.JSATexture = function(texture, item) {
+        var baseTexture = texture.baseTexture;
+        var f = function (event) {
+            if (item.data.offset) {
+                //a bug wait to be fixed, set the trim will cause the texture doesn't display
+                texture.trim = new PIXI.Rectangle(item.data.offset[0], item.data.offset[1], item.data.offset[2], item.data.offset[3]);
+            }
+        };
+        if(baseTexture && !baseTexture.hasLoaded) {
+            baseTexture.once('loaded', f, self);
+        } else {
+            f();
+        }
+    };
     /**
      * base on pixijs: http://www.pixijs.com
      */
     JSA.JSAAnimation = function (pack) {
-        var i, item, texture, textures = [];
+        var i, item, baseTexture, texture, img, textures = [];
+        var self = this;
         
         this.timeInfo = new JSA.FPS.TimeInfo(0, 0, 0);
         if (pack && pack.items) {
@@ -28,13 +43,11 @@
                     if(JSA.isTexture(item.data.type)) {
                         texture = item.data.loadImage();
                     } else {
-                        texture = new PIXI.BaseTexture(item.data.loadImage());
-                        texture = new PIXI.Texture(texture);
+                        img = item.data.loadImage();
+                        baseTexture = new PIXI.BaseTexture(img);
+                        texture = new PIXI.Texture(baseTexture);
                     }
-                    if (item.data.offset) {
-                        //a bug wait to be fixed, set the trim will cause the texture doesn't display
-                        //texture.trim = new PIXI.Rectangle(item.data.offset[0], item.data.offset[1], item.data.offset[2], item.data.offset[3]);
-                    }
+                    new JSA.JSATexture(texture, item);
                     textures.push(texture);
                 }
             }
