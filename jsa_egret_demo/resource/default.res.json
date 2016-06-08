@@ -1,0 +1,55 @@
+{
+	"resources": [
+		{
+			"name": "bgImage",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egretIcon",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description",
+			"type": "json",
+			"url": "config/description.json"
+		},
+        
+        {
+			"name": "rolePng",
+			"type": "image",
+			"url": "model/role/jsa.png"
+		},
+		{
+			"name": "roleJson",
+			"type": "json",
+			"url": "model/role/jsa.json"
+		},
+
+		{
+		  "name": "weaponPng",
+		  "type": "image",
+		  "url": "model/weapon/jsa.png"
+		},
+		{
+		  "name": "weaponJson",
+		  "type": "json",
+		  "url": "model/weapon/jsa.json"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "bgImage,egretIcon"
+		},
+        {
+			"name": "role",
+			"keys": "rolePng,roleJson"
+		},
+		{
+		  "name": "weapon",
+		  "keys": "weaponPng,weaponJson"
+		}
+	]
+}

@@ -1,0 +1,104 @@
+<html>
+
+<head>
+    <title>jszip example 1</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+        }
+    </style>
+    <script src="common/pako.js"></script>
+    <script src="common/jszip.js"></script>
+    <script src="common/pixi.js"></script>
+    <script src="common/jsa.js"></script>
+    <script src="common/jsaanimation_pixi.js"></script>
+    <script src="common/fps.js"></script>
+</head>
+
+<body>
+    <script>
+        var jsas = [];
+        function readfile(f, fn) {
+            if (!f) return;
+            
+            var reader = new FileReader(); // Create a FileReader object
+            reader.onload = function () { // Define an event handler
+                var zip = new JSZip();
+                zip.load(reader.result);
+                var zobj = zip.file("jsa.json.zip");
+                var jsaDef = JSON.parse(pako.inflate(zobj.asUint8Array(), {to: "string"}));
+                var jsa = new JSA.JSA(jsaDef, zip);
+//                jsa.getPackItemData("atk_1/45/00000.png", function(item) {
+//                    if(item.data) {
+//                        img1.src = item.data.img.src;
+//                        img2.src = item.data.imgSrc ? item.data.imgSrc.src : "";
+//                        img3.src = item.data.imgMask ? item.data.imgMask.src : "";
+//                    } else {
+//                        img1.src = "";
+//                        img2.src = "";
+//                        img3.src = "";
+//                    }
+//                });
+                
+                jsas[fn] = jsa;
+            }
+            reader.onerror = function (e) { // If anything goes wrong
+                console.log("Error", e); // Just log it
+            };
+            reader.readAsArrayBuffer(f); // Read the file
+        }
+        
+        // create an new instance of a pixi stage
+        var stage = new PIXI.Container();
+
+        // create a renderer instance.
+        var renderer = PIXI.autoDetectRenderer(512, 512);
+
+        // add the renderer view element to the DOM
+        document.body.appendChild(renderer.view);
+        
+        function onframe(/* time */ time) {
+            // time ~= +new Date // the unix time
+            //console.log(this);
+            //console.log(time);
+            
+            // render the stage  
+            renderer.render(stage);
+        }
+        JSA.FPS.on(30);
+        JSA.FPS.add(onframe);
+        
+        var container = new JSA.JSAContainer();
+        stage.addChild(container);
+        function changeAct () {
+            var i, pack, animation, jsa, act = document.getElementById("act").value;
+            if (container.children.length > 0) {
+                container.removeChildren();
+            }
+            for (i = 0; i < jsas.length; i += 1) {
+                jsa = jsas[i];
+                if (jsa) {
+                    pack = jsa.getPackItem(act);
+                    animation = new JSA.JSAAnimation(pack);
+                    container.addAnimation(animation);
+                }
+            }
+        }
+    </script>
+    <div><input type="file" onchange="readfile(this.files[0], 0)"/>role</div>
+    <div><input type="file" onchange="readfile(this.files[0], 1)"/>weapon</div>
+    <div>
+        <input id="act" type="text" value="run/45"/>
+        <input type="button" value="ok" onclick="changeAct();"/>
+    </div>
+    <div id="editor" contenteditable="true"></div>
+    <div>
+        <img id="img1"/>
+        <img id="img2"/>
+        <img id="img3"/>
+    </div>
+</body>
+
+</html>

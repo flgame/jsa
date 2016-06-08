@@ -1,0 +1,110 @@
+<html>
+
+<head>
+    <title>jszip example 1</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+        }
+    </style>
+    <script src="common/pako.js"></script>
+    <script src="common/jszip.js"></script>
+    <script src="common/pixi.js"></script>
+    <script src="common/jsa.js"></script>
+    <script src="common/jsaanimation_pixi.js"></script>
+    <script src="common/fps.js"></script>
+</head>
+
+<body>
+    <script>
+        var jsas = {};
+        
+        // create an new instance of a pixi stage
+        var stage = new PIXI.Stage(0x66FF99);
+
+        // create a renderer instance.
+        var renderer = PIXI.autoDetectRenderer(512, 512);
+
+        // add the renderer view element to the DOM
+        document.body.appendChild(renderer.view);
+        
+        function onframe(/* time */ time) {
+            // time ~= +new Date // the unix time
+            //console.log(this);
+            //console.log(time);
+            
+            // render the stage  
+            renderer.render(stage);
+        }
+        JSA.FPS.on(30);
+        JSA.FPS.add(onframe);
+        
+        var container = new JSA.JSAContainer();
+        stage.addChild(container);
+        
+        var loader = PIXI.loader;
+        function changeModel(name) {
+            var path = document.getElementById(name).value;
+            var jsa = new JSA.JSA();
+            jsa.zip = PIXI.BaseTexture.fromImage(path + ".png");
+            jsas[name] = jsa;
+            loader.add(name, path + ".json");
+            loader.on('complete', onAssetsLoaded);
+            loader.load();
+        }
+        function onAssetsLoaded(loader, resources) {
+            var res, jsa;
+            for(name in resources) {
+                res = resources[name];
+                jsa = jsas[name];
+                jsa.pack = JSA.fromJson(res.data, jsa);
+            }
+        }
+
+        function changeAct () {
+            var name, pack, animation, jsa, act = document.getElementById("act").value;
+            if (container.children.length > 0) {
+                container.removeChildren();
+            }
+            
+            for(name in jsas) {
+                jsa = jsas[name];
+                if (jsa) {
+                    pack = jsa.getPackItem(act);
+                    animation = new JSA.JSAAnimation(pack);
+                    container.addAnimation(animation, true);
+                }
+            }
+        }
+        function changeAct2 () {
+            var name, pack, animation, jsa, act = document.getElementById("act").value;
+            if (container.children.length > 0) {
+                container.removeChildren();
+            }
+            
+            for(name in jsas) {
+                jsa = jsas[name];
+                texture = new PIXI.Texture(jsa.zip);
+                texture.frame = new PIXI.Rectangle(10, 10, 60, 60);
+                container.addChild(new PIXI.Sprite(texture));
+            }
+        }
+    </script>
+    <div>
+        <input id="role" type="text" value="https://raw.githubusercontent.com/flgame/jsa/master/jsa_js_demo/assets/B70_M_role/jsa" width="300"/>
+        <input type="button" value="ok" onclick="changeModel('role');"/>
+    </div>
+    <div>
+        <input id="weapon" type="text" value="https://raw.githubusercontent.com/flgame/jsa/master/jsa_js_demo/assets/B70_M_weapon/jsa" width="300"/>
+        <input type="button" value="ok" onclick="changeModel('weapon');"/>
+    </div>
+    <div>
+        <input id="act" type="text" value="run/45"/>
+        <input type="button" value="ok" onclick="changeAct();"/>
+    </div>
+    <div id="editor" contenteditable="true"></div>
+</body>
+
+</html>
