@@ -6,16 +6,16 @@ java script animation
 > 方向：45, 背侧, 背面, 正侧, 正面
 
 #支持的打包格式
-> NORMAL_PNG = 1
-> NORMAL_JPG = 2
-> GRAY_SCALE_JPG = 3
-> ALPHA_PNG = 4
-> INVERSE_ALPHA_PNG = 5
-> GRAY_SCALE_PNG = 6
-> NORMAL_PNG8 = 7
-> TEXTURE_PNG = 9
-> TEXTURE_PNG8 = 10
-> TEXTURE_JPG = 11
+> NORMAL_PNG = 1<br/>
+> NORMAL_JPG = 2<br/>
+> GRAY_SCALE_JPG = 3<br/>
+> ALPHA_PNG = 4<br/>
+> INVERSE_ALPHA_PNG = 5<br/>
+> GRAY_SCALE_PNG = 6<br/>
+> NORMAL_PNG8 = 7<br/>
+> TEXTURE_PNG = 9<br/>
+> TEXTURE_PNG8 = 10<br/>
+> TEXTURE_JPG = 11<br/>
 
 更改默认格式，修改png2jsa.py中：<br/>
 default_data_type = jsa.JSADataType.TEXTURE_PNG8<br/>
