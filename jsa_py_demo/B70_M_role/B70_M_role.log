@@ -1,0 +1,737 @@
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\45\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\45\00000.png
++237,+149,60,164
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\45\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\45\00001.png
++240,+146,73,155
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\45\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\45\00002.png
++230,+145,85,156
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\45\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\45\00003.png
++239,+144,73,157
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\45\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\45\00004.png
++238,+146,72,155
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\45\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\45\00005.png
++236,+146,72,155
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\45\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\45\00006.png
++238,+145,73,156
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\45\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\45\00007.png
++240,+146,73,155
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\正侧\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\正侧\00000.png
++224,+159,71,151
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\正侧\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\正侧\00001.png
++239,+149,54,158
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\正侧\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\正侧\00002.png
++241,+148,55,158
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\正侧\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\正侧\00003.png
++246,+149,49,156
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\正侧\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\正侧\00004.png
++243,+147,63,158
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\正侧\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\正侧\00005.png
++240,+146,72,159
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\正侧\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\正侧\00006.png
++244,+147,63,158
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\正侧\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\正侧\00007.png
++239,+149,69,156
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\正面\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\正面\00000.png
++223,+151,84,159
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\正面\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\正面\00001.png
++215,+142,88,152
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\正面\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\正面\00002.png
++214,+142,88,152
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\正面\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\正面\00003.png
++214,+141,89,153
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\正面\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\正面\00004.png
++215,+143,88,151
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\正面\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\正面\00005.png
++214,+145,90,149
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\正面\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\正面\00006.png
++215,+142,88,152
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\正面\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\正面\00007.png
++215,+143,88,151
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\背侧\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\背侧\00000.png
++215,+173,87,137
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\背侧\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\背侧\00001.png
++223,+165,81,145
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\背侧\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\背侧\00002.png
++223,+165,83,145
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\背侧\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\背侧\00003.png
++230,+170,77,140
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\背侧\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\背侧\00004.png
++230,+165,82,141
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\背侧\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\背侧\00005.png
++228,+161,90,144
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\背侧\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\背侧\00006.png
++232,+166,77,139
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\背侧\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\背侧\00007.png
++230,+164,78,141
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\背面\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\背面\00000.png
++206,+171,83,139
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\背面\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\背面\00001.png
++209,+176,88,128
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\背面\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\背面\00002.png
++210,+177,88,131
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\背面\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\背面\00003.png
++208,+177,90,130
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\背面\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\背面\00004.png
++209,+171,89,137
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\背面\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\背面\00005.png
++209,+167,89,140
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\背面\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\背面\00006.png
++209,+173,89,137
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_1\背面\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_1\背面\00007.png
++209,+176,88,134
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\45\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\45\00000.png
++237,+149,60,164
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\45\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\45\00001.png
++229,+160,65,153
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\45\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\45\00002.png
++218,+164,82,149
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\45\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\45\00003.png
++217,+157,85,156
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\45\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\45\00004.png
++212,+156,89,157
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\45\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\45\00005.png
++214,+155,88,158
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\45\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\45\00006.png
++215,+157,88,156
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\45\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\45\00007.png
++202,+176,100,137
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\45\00008.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\45\00008.png
++206,+175,101,138
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\45\00009.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\45\00009.png
++213,+163,92,150
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00000.png
++224,+160,70,150
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00001.png
++213,+168,88,141
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00002.png
++205,+165,91,143
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00003.png
++217,+149,65,158
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00004.png
++223,+153,68,154
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00005.png
++224,+153,67,154
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00006.png
++224,+155,62,152
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00007.png
++205,+158,105,149
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00008.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00008.png
++205,+158,114,149
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00009.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正侧\00009.png
++214,+150,91,157
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正面\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正面\00000.png
++223,+151,84,159
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正面\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正面\00001.png
++230,+151,70,159
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正面\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正面\00002.png
++229,+154,75,156
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正面\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正面\00003.png
++214,+157,86,153
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正面\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正面\00004.png
++218,+155,78,155
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正面\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正面\00005.png
++216,+154,79,156
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正面\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正面\00006.png
++216,+156,82,154
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正面\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正面\00007.png
++217,+187,91,123
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正面\00008.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正面\00008.png
++218,+187,90,123
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\正面\00009.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\正面\00009.png
++213,+167,92,143
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00000.png
++215,+174,87,136
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00001.png
++206,+165,86,144
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00002.png
++210,+160,77,151
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00003.png
++213,+150,68,153
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00004.png
++217,+146,64,152
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00005.png
++217,+147,65,150
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00006.png
++211,+149,81,148
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00007.png
++202,+151,108,146
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00008.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00008.png
++201,+151,111,146
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00009.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背侧\00009.png
++210,+154,79,143
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背面\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背面\00000.png
++206,+167,83,143
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背面\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背面\00001.png
++212,+152,70,158
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背面\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背面\00002.png
++208,+149,75,153
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背面\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背面\00003.png
++212,+158,85,142
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背面\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背面\00004.png
++216,+157,78,143
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背面\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背面\00005.png
++217,+158,78,142
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背面\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背面\00006.png
++214,+158,84,142
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背面\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背面\00007.png
++206,+146,88,154
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背面\00008.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背面\00008.png
++206,+145,88,155
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_2\背面\00009.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_2\背面\00009.png
++206,+154,93,147
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\45\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\45\00000.png
++237,+149,60,164
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\45\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\45\00001.png
++236,+156,66,157
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\45\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\45\00002.png
++220,+160,79,153
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\45\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\45\00003.png
++200,+163,94,150
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\45\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\45\00004.png
++200,+161,94,152
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\45\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\45\00005.png
++213,+157,84,156
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\正侧\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\正侧\00000.png
++224,+160,70,150
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\正侧\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\正侧\00001.png
++219,+172,85,137
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\正侧\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\正侧\00002.png
++215,+173,88,136
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\正侧\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\正侧\00003.png
++200,+156,84,151
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\正侧\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\正侧\00004.png
++201,+156,89,151
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\正侧\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\正侧\00005.png
++222,+153,69,154
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\正面\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\正面\00000.png
++223,+152,84,158
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\正面\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\正面\00001.png
++230,+147,74,163
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\正面\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\正面\00002.png
++230,+149,73,161
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\正面\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\正面\00003.png
++215,+164,84,146
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\正面\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\正面\00004.png
++216,+161,77,149
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\正面\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\正面\00005.png
++216,+157,91,153
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\背侧\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\背侧\00000.png
++215,+173,87,137
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\背侧\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\背侧\00001.png
++206,+172,84,138
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\背侧\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\背侧\00002.png
++207,+171,75,138
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\背侧\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\背侧\00003.png
++213,+146,76,151
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\背侧\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\背侧\00004.png
++214,+145,78,154
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\背侧\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\背侧\00005.png
++215,+164,80,139
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\背面\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\背面\00000.png
++205,+171,84,139
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\背面\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\背面\00001.png
++208,+157,74,154
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\背面\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\背面\00002.png
++209,+155,73,152
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\背面\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\背面\00003.png
++213,+153,83,147
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\背面\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\背面\00004.png
++218,+154,78,147
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\atk_n\背面\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\atk_n\背面\00005.png
++205,+165,91,139
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\45\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\45\00000.png
++237,+149,60,164
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\45\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\45\00001.png
++226,+153,84,160
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\45\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\45\00002.png
++238,+154,82,159
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\45\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\45\00003.png
++241,+156,69,157
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\正侧\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\正侧\00000.png
++224,+159,70,151
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\正侧\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\正侧\00001.png
++224,+149,86,158
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\正侧\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\正侧\00002.png
++224,+165,94,142
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\正侧\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\正侧\00003.png
++224,+166,84,141
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\正面\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\正面\00000.png
++223,+152,83,158
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\正面\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\正面\00001.png
++214,+162,88,148
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\正面\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\正面\00002.png
++214,+148,90,162
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\正面\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\正面\00003.png
++217,+148,91,162
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\背侧\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\背侧\00000.png
++215,+174,86,136
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\背侧\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\背侧\00001.png
++217,+157,82,146
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\背侧\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\背侧\00002.png
++217,+187,98,134
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\背侧\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\背侧\00003.png
++217,+184,93,131
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\背面\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\背面\00000.png
++205,+171,84,139
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\背面\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\背面\00001.png
++209,+158,89,144
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\背面\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\背面\00002.png
++208,+196,90,126
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\be_atk\背面\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\be_atk\背面\00003.png
++205,+186,90,134
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\45\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\45\00000.png
++237,+149,60,164
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\45\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\45\00001.png
++242,+145,73,147
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\45\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\45\00002.png
++240,+152,107,140
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\45\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\45\00003.png
++229,+152,112,142
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\45\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\45\00004.png
++162,+227,138,115
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\45\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\45\00005.png
++156,+246,145,100
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\45\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\45\00006.png
++152,+259,152,78
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\45\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\45\00007.png
++152,+267,152,70
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\45\00008.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\45\00008.png
++152,+267,152,71
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\正侧\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\正侧\00000.png
++224,+159,70,151
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\正侧\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\正侧\00001.png
++245,+147,63,152
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\正侧\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\正侧\00002.png
++247,+150,107,148
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\正侧\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\正侧\00003.png
++248,+163,101,140
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\正侧\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\正侧\00004.png
++131,+225,164,93
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\正侧\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\正侧\00005.png
++131,+237,162,81
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\正侧\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\正侧\00006.png
++132,+248,165,70
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\正侧\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\正侧\00007.png
++130,+248,168,74
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\正侧\00008.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\正侧\00008.png
++131,+248,167,77
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\正面\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\正面\00000.png
++223,+151,84,159
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\正面\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\正面\00001.png
++215,+151,88,141
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\正面\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\正面\00002.png
++217,+160,92,128
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\正面\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\正面\00003.png
++213,+146,91,143
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\正面\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\正面\00004.png
++211,+232,97,111
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\正面\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\正面\00005.png
++210,+250,94,104
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\正面\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\正面\00006.png
++207,+262,104,89
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\正面\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\正面\00007.png
++200,+266,115,85
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\正面\00008.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\正面\00008.png
++200,+266,117,85
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\背侧\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\背侧\00000.png
++214,+174,87,136
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\背侧\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\背侧\00001.png
++230,+161,88,146
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\背侧\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\背侧\00002.png
++223,+159,104,144
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\背侧\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\背侧\00003.png
++235,+185,93,124
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\背侧\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\背侧\00004.png
++150,+225,126,82
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\背侧\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\背侧\00005.png
++159,+214,136,110
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\背侧\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\背侧\00006.png
++154,+226,148,89
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\背侧\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\背侧\00007.png
++154,+228,150,87
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\背侧\00008.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\背侧\00008.png
++155,+228,149,89
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\背面\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\背面\00000.png
++205,+171,84,139
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\背面\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\背面\00001.png
++206,+165,91,145
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\背面\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\背面\00002.png
++204,+160,91,149
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\背面\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\背面\00003.png
++210,+194,89,123
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\背面\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\背面\00004.png
++201,+215,100,89
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\背面\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\背面\00005.png
++208,+206,94,114
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\背面\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\背面\00006.png
++201,+222,107,93
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\背面\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\背面\00007.png
++197,+221,115,98
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\dead\背面\00008.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\dead\背面\00008.png
++195,+222,117,97
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\45\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\45\00000.png
++213,+154,106,151
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\45\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\45\00001.png
++215,+156,90,145
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\45\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\45\00002.png
++216,+154,87,139
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\45\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\45\00003.png
++219,+153,98,144
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\45\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\45\00004.png
++221,+153,111,148
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\45\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\45\00005.png
++219,+155,124,142
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\45\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\45\00006.png
++216,+155,127,140
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\45\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\45\00007.png
++215,+154,121,148
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\正侧\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\正侧\00000.png
++222,+144,113,153
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\正侧\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\正侧\00001.png
++225,+145,114,154
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\正侧\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\正侧\00002.png
++222,+143,121,156
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\正侧\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\正侧\00003.png
++223,+144,122,154
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\正侧\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\正侧\00004.png
++222,+145,124,148
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\正侧\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\正侧\00005.png
++225,+147,120,147
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\正侧\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\正侧\00006.png
++227,+144,114,150
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\正侧\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\正侧\00007.png
++222,+142,113,151
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\正面\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\正面\00000.png
++210,+158,89,149
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\正面\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\正面\00001.png
++211,+160,90,140
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\正面\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\正面\00002.png
++211,+159,91,135
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\正面\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\正面\00003.png
++211,+156,92,148
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\正面\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\正面\00004.png
++212,+157,93,150
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\正面\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\正面\00005.png
++212,+160,92,140
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\正面\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\正面\00006.png
++212,+158,96,136
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\正面\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\正面\00007.png
++211,+157,90,147
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\背侧\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\背侧\00000.png
++223,+150,95,146
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\背侧\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\背侧\00001.png
++218,+152,109,147
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\背侧\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\背侧\00002.png
++212,+150,123,153
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\背侧\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\背侧\00003.png
++210,+150,127,157
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\背侧\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\背侧\00004.png
++208,+153,124,148
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\背侧\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\背侧\00005.png
++210,+153,113,143
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\背侧\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\背侧\00006.png
++212,+151,99,148
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\背侧\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\背侧\00007.png
++218,+149,88,153
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\背面\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\背面\00000.png
++213,+154,88,149
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\背面\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\背面\00001.png
++211,+154,90,144
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\背面\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\背面\00002.png
++210,+152,91,151
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\背面\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\背面\00003.png
++209,+151,92,157
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\背面\00004.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\背面\00004.png
++208,+153,92,150
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\背面\00005.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\背面\00005.png
++208,+154,92,144
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\背面\00006.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\背面\00006.png
++204,+152,97,150
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\run\背面\00007.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\run\背面\00007.png
++211,+150,90,158
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\45\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\45\00000.png
++222,+148,79,157
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\45\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\45\00001.png
++221,+148,80,157
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\45\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\45\00002.png
++221,+148,80,157
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\45\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\45\00003.png
++221,+148,80,157
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\正侧\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\正侧\00000.png
++233,+145,61,159
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\正侧\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\正侧\00001.png
++233,+145,62,159
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\正侧\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\正侧\00002.png
++233,+145,64,159
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\正侧\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\正侧\00003.png
++233,+145,65,159
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\正面\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\正面\00000.png
++212,+148,90,153
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\正面\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\正面\00001.png
++212,+148,90,153
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\正面\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\正面\00002.png
++212,+148,90,153
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\正面\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\正面\00003.png
++212,+148,90,153
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\背侧\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\背侧\00000.png
++224,+160,74,146
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\背侧\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\背侧\00001.png
++224,+160,74,145
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\背侧\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\背侧\00002.png
++224,+160,77,144
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\背侧\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\背侧\00003.png
++225,+159,76,144
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\背面\00000.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\背面\00000.png
++210,+165,90,139
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\背面\00001.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\背面\00001.png
++209,+165,91,139
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\背面\00002.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\背面\00002.png
++210,+164,90,141
+F:/programs/ImageMagick/mogrify.exe -trim E:\examples\0_PC\B70_M_role\out\static\背面\00003.png
+F:/programs/ImageMagick/identify.exe -format %X,%Y,%w,%h E:\examples\0_PC\B70_M_role\out\static\背面\00003.png
++209,+165,91,140
+F:/programs/ImageMagick/montage.exe E:\examples\0_PC\B70_M_role\out\atk_1/45/00000.png E:\examples\0_PC\B70_M_role\out\atk_1/45/00001.png E:\examples\0_PC\B70_M_role\out\atk_1/45/00002.png E:\examples\0_PC\B70_M_role\out\atk_1/45/00003.png E:\examples\0_PC\B70_M_role\out\atk_1/45/00004.png E:\examples\0_PC\B70_M_role\out\atk_1/45/00005.png E:\examples\0_PC\B70_M_role\out\atk_1/45/00006.png E:\examples\0_PC\B70_M_role\out\atk_1/45/00007.png E:\examples\0_PC\B70_M_role\out\atk_1/正侧/00000.png E:\examples\0_PC\B70_M_role\out\atk_1/正侧/00001.png E:\examples\0_PC\B70_M_role\out\atk_1/正侧/00002.png E:\examples\0_PC\B70_M_role\out\atk_1/正侧/00003.png E:\examples\0_PC\B70_M_role\out\atk_1/正侧/00004.png E:\examples\0_PC\B70_M_role\out\atk_1/正侧/00005.png E:\examples\0_PC\B70_M_role\out\atk_1/正侧/00006.png E:\examples\0_PC\B70_M_role\out\atk_1/正侧/00007.png E:\examples\0_PC\B70_M_role\out\atk_1/正面/00000.png E:\examples\0_PC\B70_M_role\out\atk_1/正面/00001.png E:\examples\0_PC\B70_M_role\out\atk_1/正面/00002.png E:\examples\0_PC\B70_M_role\out\atk_1/正面/00003.png E:\examples\0_PC\B70_M_role\out\atk_1/正面/00004.png E:\examples\0_PC\B70_M_role\out\atk_1/正面/00005.png E:\examples\0_PC\B70_M_role\out\atk_1/正面/00006.png E:\examples\0_PC\B70_M_role\out\atk_1/正面/00007.png E:\examples\0_PC\B70_M_role\out\atk_1/背侧/00000.png E:\examples\0_PC\B70_M_role\out\atk_1/背侧/00001.png E:\examples\0_PC\B70_M_role\out\atk_1/背侧/00002.png E:\examples\0_PC\B70_M_role\out\atk_1/背侧/00003.png E:\examples\0_PC\B70_M_role\out\atk_1/背侧/00004.png E:\examples\0_PC\B70_M_role\out\atk_1/背侧/00005.png E:\examples\0_PC\B70_M_role\out\atk_1/背侧/00006.png E:\examples\0_PC\B70_M_role\out\atk_1/背侧/00007.png E:\examples\0_PC\B70_M_role\out\atk_1/背面/00000.png E:\examples\0_PC\B70_M_role\out\atk_1/背面/00001.png E:\examples\0_PC\B70_M_role\out\atk_1/背面/00002.png E:\examples\0_PC\B70_M_role\out\atk_1/背面/00003.png E:\examples\0_PC\B70_M_role\out\atk_1/背面/00004.png E:\examples\0_PC\B70_M_role\out\atk_1/背面/00005.png E:\examples\0_PC\B70_M_role\out\atk_1/背面/00006.png E:\examples\0_PC\B70_M_role\out\atk_1/背面/00007.png E:\examples\0_PC\B70_M_role\out\atk_2/45/00000.png E:\examples\0_PC\B70_M_role\out\atk_2/45/00001.png E:\examples\0_PC\B70_M_role\out\atk_2/45/00002.png E:\examples\0_PC\B70_M_role\out\atk_2/45/00003.png E:\examples\0_PC\B70_M_role\out\atk_2/45/00004.png E:\examples\0_PC\B70_M_role\out\atk_2/45/00005.png E:\examples\0_PC\B70_M_role\out\atk_2/45/00006.png E:\examples\0_PC\B70_M_role\out\atk_2/45/00007.png E:\examples\0_PC\B70_M_role\out\atk_2/45/00008.png E:\examples\0_PC\B70_M_role\out\atk_2/45/00009.png E:\examples\0_PC\B70_M_role\out\atk_2/正侧/00000.png E:\examples\0_PC\B70_M_role\out\atk_2/正侧/00001.png E:\examples\0_PC\B70_M_role\out\atk_2/正侧/00002.png E:\examples\0_PC\B70_M_role\out\atk_2/正侧/00003.png E:\examples\0_PC\B70_M_role\out\atk_2/正侧/00004.png E:\examples\0_PC\B70_M_role\out\atk_2/正侧/00005.png E:\examples\0_PC\B70_M_role\out\atk_2/正侧/00006.png E:\examples\0_PC\B70_M_role\out\atk_2/正侧/00007.png E:\examples\0_PC\B70_M_role\out\atk_2/正侧/00008.png E:\examples\0_PC\B70_M_role\out\atk_2/正侧/00009.png E:\examples\0_PC\B70_M_role\out\atk_2/正面/00000.png E:\examples\0_PC\B70_M_role\out\atk_2/正面/00001.png E:\examples\0_PC\B70_M_role\out\atk_2/正面/00002.png E:\examples\0_PC\B70_M_role\out\atk_2/正面/00003.png E:\examples\0_PC\B70_M_role\out\atk_2/正面/00004.png E:\examples\0_PC\B70_M_role\out\atk_2/正面/00005.png E:\examples\0_PC\B70_M_role\out\atk_2/正面/00006.png E:\examples\0_PC\B70_M_role\out\atk_2/正面/00007.png E:\examples\0_PC\B70_M_role\out\atk_2/正面/00008.png E:\examples\0_PC\B70_M_role\out\atk_2/正面/00009.png E:\examples\0_PC\B70_M_role\out\atk_2/背侧/00000.png E:\examples\0_PC\B70_M_role\out\atk_2/背侧/00001.png E:\examples\0_PC\B70_M_role\out\atk_2/背侧/00002.png E:\examples\0_PC\B70_M_role\out\atk_2/背侧/00003.png E:\examples\0_PC\B70_M_role\out\atk_2/背侧/00004.png E:\examples\0_PC\B70_M_role\out\atk_2/背侧/00005.png E:\examples\0_PC\B70_M_role\out\atk_2/背侧/00006.png E:\examples\0_PC\B70_M_role\out\atk_2/背侧/00007.png E:\examples\0_PC\B70_M_role\out\atk_2/背侧/00008.png E:\examples\0_PC\B70_M_role\out\atk_2/背侧/00009.png E:\examples\0_PC\B70_M_role\out\atk_2/背面/00000.png E:\examples\0_PC\B70_M_role\out\atk_2/背面/00001.png E:\examples\0_PC\B70_M_role\out\atk_2/背面/00002.png E:\examples\0_PC\B70_M_role\out\atk_2/背面/00003.png E:\examples\0_PC\B70_M_role\out\atk_2/背面/00004.png E:\examples\0_PC\B70_M_role\out\atk_2/背面/00005.png E:\examples\0_PC\B70_M_role\out\atk_2/背面/00006.png E:\examples\0_PC\B70_M_role\out\atk_2/背面/00007.png E:\examples\0_PC\B70_M_role\out\atk_2/背面/00008.png E:\examples\0_PC\B70_M_role\out\atk_2/背面/00009.png E:\examples\0_PC\B70_M_role\out\atk_n/45/00000.png E:\examples\0_PC\B70_M_role\out\atk_n/45/00001.png E:\examples\0_PC\B70_M_role\out\atk_n/45/00002.png E:\examples\0_PC\B70_M_role\out\atk_n/45/00003.png E:\examples\0_PC\B70_M_role\out\atk_n/45/00004.png E:\examples\0_PC\B70_M_role\out\atk_n/45/00005.png E:\examples\0_PC\B70_M_role\out\atk_n/正侧/00000.png E:\examples\0_PC\B70_M_role\out\atk_n/正侧/00001.png E:\examples\0_PC\B70_M_role\out\atk_n/正侧/00002.png E:\examples\0_PC\B70_M_role\out\atk_n/正侧/00003.png E:\examples\0_PC\B70_M_role\out\atk_n/正侧/00004.png E:\examples\0_PC\B70_M_role\out\atk_n/正侧/00005.png E:\examples\0_PC\B70_M_role\out\atk_n/正面/00000.png E:\examples\0_PC\B70_M_role\out\atk_n/正面/00001.png E:\examples\0_PC\B70_M_role\out\atk_n/正面/00002.png E:\examples\0_PC\B70_M_role\out\atk_n/正面/00003.png E:\examples\0_PC\B70_M_role\out\atk_n/正面/00004.png E:\examples\0_PC\B70_M_role\out\atk_n/正面/00005.png E:\examples\0_PC\B70_M_role\out\atk_n/背侧/00000.png E:\examples\0_PC\B70_M_role\out\atk_n/背侧/00001.png E:\examples\0_PC\B70_M_role\out\atk_n/背侧/00002.png E:\examples\0_PC\B70_M_role\out\atk_n/背侧/00003.png E:\examples\0_PC\B70_M_role\out\atk_n/背侧/00004.png E:\examples\0_PC\B70_M_role\out\atk_n/背侧/00005.png E:\examples\0_PC\B70_M_role\out\atk_n/背面/00000.png E:\examples\0_PC\B70_M_role\out\atk_n/背面/00001.png E:\examples\0_PC\B70_M_role\out\atk_n/背面/00002.png E:\examples\0_PC\B70_M_role\out\atk_n/背面/00003.png E:\examples\0_PC\B70_M_role\out\atk_n/背面/00004.png E:\examples\0_PC\B70_M_role\out\atk_n/背面/00005.png E:\examples\0_PC\B70_M_role\out\be_atk/45/00000.png E:\examples\0_PC\B70_M_role\out\be_atk/45/00001.png E:\examples\0_PC\B70_M_role\out\be_atk/45/00002.png E:\examples\0_PC\B70_M_role\out\be_atk/45/00003.png E:\examples\0_PC\B70_M_role\out\be_atk/正侧/00000.png E:\examples\0_PC\B70_M_role\out\be_atk/正侧/00001.png E:\examples\0_PC\B70_M_role\out\be_atk/正侧/00002.png E:\examples\0_PC\B70_M_role\out\be_atk/正侧/00003.png E:\examples\0_PC\B70_M_role\out\be_atk/正面/00000.png E:\examples\0_PC\B70_M_role\out\be_atk/正面/00001.png E:\examples\0_PC\B70_M_role\out\be_atk/正面/00002.png E:\examples\0_PC\B70_M_role\out\be_atk/正面/00003.png E:\examples\0_PC\B70_M_role\out\be_atk/背侧/00000.png E:\examples\0_PC\B70_M_role\out\be_atk/背侧/00001.png E:\examples\0_PC\B70_M_role\out\be_atk/背侧/00002.png E:\examples\0_PC\B70_M_role\out\be_atk/背侧/00003.png E:\examples\0_PC\B70_M_role\out\be_atk/背面/00000.png E:\examples\0_PC\B70_M_role\out\be_atk/背面/00001.png E:\examples\0_PC\B70_M_role\out\be_atk/背面/00002.png E:\examples\0_PC\B70_M_role\out\be_atk/背面/00003.png E:\examples\0_PC\B70_M_role\out\dead/45/00000.png E:\examples\0_PC\B70_M_role\out\dead/45/00001.png E:\examples\0_PC\B70_M_role\out\dead/45/00002.png E:\examples\0_PC\B70_M_role\out\dead/45/00003.png E:\examples\0_PC\B70_M_role\out\dead/45/00004.png E:\examples\0_PC\B70_M_role\out\dead/45/00005.png E:\examples\0_PC\B70_M_role\out\dead/45/00006.png E:\examples\0_PC\B70_M_role\out\dead/45/00007.png E:\examples\0_PC\B70_M_role\out\dead/45/00008.png E:\examples\0_PC\B70_M_role\out\dead/正侧/00000.png E:\examples\0_PC\B70_M_role\out\dead/正侧/00001.png E:\examples\0_PC\B70_M_role\out\dead/正侧/00002.png E:\examples\0_PC\B70_M_role\out\dead/正侧/00003.png E:\examples\0_PC\B70_M_role\out\dead/正侧/00004.png E:\examples\0_PC\B70_M_role\out\dead/正侧/00005.png E:\examples\0_PC\B70_M_role\out\dead/正侧/00006.png E:\examples\0_PC\B70_M_role\out\dead/正侧/00007.png E:\examples\0_PC\B70_M_role\out\dead/正侧/00008.png E:\examples\0_PC\B70_M_role\out\dead/正面/00000.png E:\examples\0_PC\B70_M_role\out\dead/正面/00001.png E:\examples\0_PC\B70_M_role\out\dead/正面/00002.png E:\examples\0_PC\B70_M_role\out\dead/正面/00003.png E:\examples\0_PC\B70_M_role\out\dead/正面/00004.png E:\examples\0_PC\B70_M_role\out\dead/正面/00005.png E:\examples\0_PC\B70_M_role\out\dead/正面/00006.png E:\examples\0_PC\B70_M_role\out\dead/正面/00007.png E:\examples\0_PC\B70_M_role\out\dead/正面/00008.png E:\examples\0_PC\B70_M_role\out\dead/背侧/00000.png E:\examples\0_PC\B70_M_role\out\dead/背侧/00001.png E:\examples\0_PC\B70_M_role\out\dead/背侧/00002.png E:\examples\0_PC\B70_M_role\out\dead/背侧/00003.png E:\examples\0_PC\B70_M_role\out\dead/背侧/00004.png E:\examples\0_PC\B70_M_role\out\dead/背侧/00005.png E:\examples\0_PC\B70_M_role\out\dead/背侧/00006.png E:\examples\0_PC\B70_M_role\out\dead/背侧/00007.png E:\examples\0_PC\B70_M_role\out\dead/背侧/00008.png E:\examples\0_PC\B70_M_role\out\dead/背面/00000.png E:\examples\0_PC\B70_M_role\out\dead/背面/00001.png E:\examples\0_PC\B70_M_role\out\dead/背面/00002.png E:\examples\0_PC\B70_M_role\out\dead/背面/00003.png E:\examples\0_PC\B70_M_role\out\dead/背面/00004.png E:\examples\0_PC\B70_M_role\out\dead/背面/00005.png E:\examples\0_PC\B70_M_role\out\dead/背面/00006.png E:\examples\0_PC\B70_M_role\out\dead/背面/00007.png E:\examples\0_PC\B70_M_role\out\dead/背面/00008.png E:\examples\0_PC\B70_M_role\out\run/45/00000.png E:\examples\0_PC\B70_M_role\out\run/45/00001.png E:\examples\0_PC\B70_M_role\out\run/45/00002.png E:\examples\0_PC\B70_M_role\out\run/45/00003.png E:\examples\0_PC\B70_M_role\out\run/45/00004.png E:\examples\0_PC\B70_M_role\out\run/45/00005.png E:\examples\0_PC\B70_M_role\out\run/45/00006.png E:\examples\0_PC\B70_M_role\out\run/45/00007.png E:\examples\0_PC\B70_M_role\out\run/正侧/00000.png E:\examples\0_PC\B70_M_role\out\run/正侧/00001.png E:\examples\0_PC\B70_M_role\out\run/正侧/00002.png E:\examples\0_PC\B70_M_role\out\run/正侧/00003.png E:\examples\0_PC\B70_M_role\out\run/正侧/00004.png E:\examples\0_PC\B70_M_role\out\run/正侧/00005.png E:\examples\0_PC\B70_M_role\out\run/正侧/00006.png E:\examples\0_PC\B70_M_role\out\run/正侧/00007.png E:\examples\0_PC\B70_M_role\out\run/正面/00000.png E:\examples\0_PC\B70_M_role\out\run/正面/00001.png E:\examples\0_PC\B70_M_role\out\run/正面/00002.png E:\examples\0_PC\B70_M_role\out\run/正面/00003.png E:\examples\0_PC\B70_M_role\out\run/正面/00004.png E:\examples\0_PC\B70_M_role\out\run/正面/00005.png E:\examples\0_PC\B70_M_role\out\run/正面/00006.png E:\examples\0_PC\B70_M_role\out\run/正面/00007.png E:\examples\0_PC\B70_M_role\out\run/背侧/00000.png E:\examples\0_PC\B70_M_role\out\run/背侧/00001.png E:\examples\0_PC\B70_M_role\out\run/背侧/00002.png E:\examples\0_PC\B70_M_role\out\run/背侧/00003.png E:\examples\0_PC\B70_M_role\out\run/背侧/00004.png E:\examples\0_PC\B70_M_role\out\run/背侧/00005.png E:\examples\0_PC\B70_M_role\out\run/背侧/00006.png E:\examples\0_PC\B70_M_role\out\run/背侧/00007.png E:\examples\0_PC\B70_M_role\out\run/背面/00000.png E:\examples\0_PC\B70_M_role\out\run/背面/00001.png E:\examples\0_PC\B70_M_role\out\run/背面/00002.png E:\examples\0_PC\B70_M_role\out\run/背面/00003.png E:\examples\0_PC\B70_M_role\out\run/背面/00004.png E:\examples\0_PC\B70_M_role\out\run/背面/00005.png E:\examples\0_PC\B70_M_role\out\run/背面/00006.png E:\examples\0_PC\B70_M_role\out\run/背面/00007.png E:\examples\0_PC\B70_M_role\out\static/45/00000.png E:\examples\0_PC\B70_M_role\out\static/45/00001.png E:\examples\0_PC\B70_M_role\out\static/45/00002.png E:\examples\0_PC\B70_M_role\out\static/45/00003.png E:\examples\0_PC\B70_M_role\out\static/正侧/00000.png E:\examples\0_PC\B70_M_role\out\static/正侧/00001.png E:\examples\0_PC\B70_M_role\out\static/正侧/00002.png E:\examples\0_PC\B70_M_role\out\static/正侧/00003.png E:\examples\0_PC\B70_M_role\out\static/正面/00000.png E:\examples\0_PC\B70_M_role\out\static/正面/00001.png E:\examples\0_PC\B70_M_role\out\static/正面/00002.png E:\examples\0_PC\B70_M_role\out\static/正面/00003.png E:\examples\0_PC\B70_M_role\out\static/背侧/00000.png E:\examples\0_PC\B70_M_role\out\static/背侧/00001.png E:\examples\0_PC\B70_M_role\out\static/背侧/00002.png E:\examples\0_PC\B70_M_role\out\static/背侧/00003.png E:\examples\0_PC\B70_M_role\out\static/背面/00000.png E:\examples\0_PC\B70_M_role\out\static/背面/00001.png E:\examples\0_PC\B70_M_role\out\static/背面/00002.png E:\examples\0_PC\B70_M_role\out\static/背面/00003.png -mode Concatenate -background none -tile 8x31 E:\examples\0_PC\B70_M_role\jsa.png
+F:/programs/pngquant/pngquant.exe -f --speed 1 --ext .png E:\examples\0_PC\B70_M_role\jsa.png
