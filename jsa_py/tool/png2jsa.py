@@ -40,8 +40,8 @@ MAX_IMG_COLUMN = 8
 #默认图片压缩格式
 default_data_type = jsa.JSADataType.TEXTURE_PNG8
 #工具路径配置
-ImageMagick = "F:/programs/ImageMagick/"
-pngquant = "F:/programs/pngquant/"
+ImageMagick = "C:/Program Files/ImageMagick-6.7.5-Q16/"
+pngquant = "E:/programFiles/pngquant/"
 #####################################
 
 default_png_file = "*.png"
@@ -130,6 +130,20 @@ def parseFile(f, jsaObj, logF, out, filesInfo):
         distutils.file_util.copy_file(f, tmpName)
         filesInfo["files"].append(tmpName)
         
+        args = [img_identify_exe] + img_identify_opt + [tmpName]
+        logF.write(" ".join(args) + "\n")
+        logF.flush()
+        p = subprocess.Popen(args, cwd=MAIN_DIR, stderr=logF, stdout=subprocess.PIPE)
+        p.wait()
+        logF.flush()
+        offsetInfo = p.stdout.readline().strip()
+        logF.write(offsetInfo + "\n")
+        rawOffset = offsetInfo.split(",")[0:4]
+        rawOffset[0] = eval(rawOffset[0])
+        rawOffset[1] = eval(rawOffset[1])
+        rawOffset[2] = eval(rawOffset[2])
+        rawOffset[3] = eval(rawOffset[3])
+        
         args = [img_mogrify_exe] + img_mogrify_opt + [tmpName]
         logF.write(" ".join(args) + "\n")
         logF.flush()
@@ -201,9 +215,26 @@ def parseFile(f, jsaObj, logF, out, filesInfo):
             tmpName = base + "." + img_mogrify_mask_img
             data.mask = toUnicode(tmpName)
         data.offset = offsetA
+        data.rawOffset = rawOffset
     elif(fnmatch.fnmatch(f, default_jpg_file)):
         tmpName = os.path.join(out, name)
         distutils.file_util.copy_file(f, tmpName)
+        
+        args = [img_identify_exe] + img_identify_opt + [tmpName]
+        logF.write(" ".join(args) + "\n")
+        logF.flush()
+        p = subprocess.Popen(args, cwd=MAIN_DIR, stderr=logF, stdout=subprocess.PIPE)
+        p.wait()
+        logF.flush()
+        offsetInfo = p.stdout.readline().strip()
+        logF.write(offsetInfo + "\n")
+        rawOffset = offsetInfo.split(",")[0:4]
+        rawOffset[0] = eval(rawOffset[0])
+        rawOffset[1] = eval(rawOffset[1])
+        rawOffset[2] = eval(rawOffset[2])
+        rawOffset[3] = eval(rawOffset[3])
+        data.offset = rawOffset
+        data.rawOffset = rawOffset
         data.src = toUnicode(name)
         filesInfo["files"].append(tmpName)
     else:
@@ -221,6 +252,8 @@ def parseDir(d, jsaObj, logF, out, filesInfo):
     items = []
     jsaObj.items = items
     files = os.listdir(d)
+    maxW = 0
+    maxH = 0
     for f in files:
         if(isExclude(f)):
             continue
@@ -229,7 +262,12 @@ def parseDir(d, jsaObj, logF, out, filesInfo):
             d_abs = os.path.join(out, f);
             if(not os.path.exists(d_abs)):
                 os.makedirs(d_abs)
-            items.append(parseDir(f_abs, None, logF, d_abs, filesInfo))
+            tmpJsa = parseDir(f_abs, None, logF, d_abs, filesInfo)
+            items.append(tmpJsa)
+            if(tmpJsa.info["maxW"] > maxW):
+                maxW = tmpJsa.info["maxW"]
+            if(tmpJsa.info["maxH"] > maxH):
+                maxH = tmpJsa.info["maxH"]
         elif(f == default_info_file):
             fH = open(f_abs, "r")
             jsaObj.info = jsonpickle.decode(fH.read())
@@ -237,6 +275,14 @@ def parseDir(d, jsaObj, logF, out, filesInfo):
             tmpJsa = parseFile(f_abs, None, logF, out, filesInfo)
             if(tmpJsa):
                 items.append(tmpJsa)
+                if(tmpJsa.data.offset[2] > maxW):
+                    maxW = tmpJsa.data.offset[2]
+                if(tmpJsa.data.offset[3]> maxH):
+                    maxH = tmpJsa.data.offset[3]
+    if(None == jsaObj.info):
+        jsaObj.info = {}
+    jsaObj.info["maxW"] = maxW
+    jsaObj.info["maxH"] = maxH
     return jsaObj
     
 def packTexture(jsaObj, default_out_img, offInfo, files, logF):

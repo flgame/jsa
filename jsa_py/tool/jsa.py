@@ -12,14 +12,15 @@ class JSAPack(object):
         return 'JSAPack name: %s, path: %s, type: %d' % (self.name, self.path, self.type)
         
 class JSAData(object):
-    def __init__(self, src = None, mask = None, offset = None, textureOffset = None, type = 3):
+    def __init__(self, src = None, mask = None, rawOffset = None, offset = None, textureOffset = None, type = 3):
         self.type = type
         self.src = src
         self.mask = mask
         self.offset = offset
+        self.rawOffset = rawOffset;
         self.textureOffset = textureOffset
     def __repr__(self):
-        return 'JSAData src: %s, mask: %s, offset: %s, textureOffset: %s' % (self.src, self.mask, self.offset, self.textureOffset)
+        return 'JSAData src: %s, mask: %s, rawOffset: %s, offset: %s, textureOffset: %s' % (self.src, self.mask, self.rawOffset, self.offset, self.textureOffset)
         
 class JSAType(object):
     PACK = 1
